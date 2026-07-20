@@ -35,6 +35,6 @@
         "textLink.foreground": "#4c6d64",
         "textLink.activeForeground": "#364a45",
         "focusBorder": "#4c6d64",
-        "sideBarSectionHeader.background": "#e9efed"
+        "sideBarSectionHeader.background": "#c0d2d066"
     }
 }
