@@ -6,7 +6,6 @@
         "activityBar.inactiveForeground": "#6f7a7799",
         "activityBarBadge.background": "#619689",
         "activityBarBadge.foreground": "#ffffff",
-        "activityBar.activeBorder": "#4c6d64",
         "sash.hoverBorder": "#e9efed",
         "statusBar.background": "#367263",
         "statusBar.border": "#367263",
@@ -34,7 +33,6 @@
         "extensionButton.prominentHoverBackground": "#364a45",
         "textLink.foreground": "#4c6d64",
         "textLink.activeForeground": "#364a45",
-        "focusBorder": "#4c6d64",
         "sideBarSectionHeader.background": "#c0d2d066"
     }
 }

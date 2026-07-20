@@ -33,7 +33,6 @@
         "extensionButton.prominentHoverBackground": "#523840",
         "textLink.foreground": "#7c5461",
         "textLink.activeForeground": "#523840",
-        "focusBorder": "#7c5461",
         "sideBarSectionHeader.background": "#f0ebec"
     }
 }
